@@ -1,0 +1,2 @@
+# insurence-config-server
+configServer
